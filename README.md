@@ -8,12 +8,7 @@
       <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" />
     </a>
 </div>
-My stat:
-<div id="stat" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danila-nechaev&theme=github_dark" alt=""/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danila-nechaev&theme=github_dark" alt=""/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danila-nechaev&theme=github_dark" alt=""/>
-</div>
+
 Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "python" width = "40" height = "40" />&nbsp;
@@ -29,3 +24,9 @@ Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title= "scikitlearn" width = "40" height = "40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title= "vscode" width = "40" height = "40" />&nbsp;
 
+My stat:
+<div id="stat" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danila-nechaev&theme=github_dark" alt=""/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danila-nechaev&theme=github_dark" alt=""/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danila-nechaev&theme=github_dark" alt=""/>
+</div>
