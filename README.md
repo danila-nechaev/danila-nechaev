@@ -12,7 +12,7 @@
 About me
 - 🌍 I speak English
 - 🌱 I’m currently learning Data Science, ML, DL.
-- 📫 You can find me here [email](mailto:danila-nechaev-2001@mail.ru)
+- 📫 You can write to me on Email: danila-nechaev-2001@mail.ru
 
 ---
 
