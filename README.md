@@ -8,3 +8,7 @@
       <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" />
     </a>
 </div>
+### Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "python"
+    width = "40" height = "40" />&nbsp
+
