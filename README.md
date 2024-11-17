@@ -10,7 +10,6 @@
 </div>
 
 About me
-- 🌍 I speak English
 - 🌱 I’m currently learning Data Science, ML, DL.
 - 📫 You can write to me on Email: danila-nechaev-2001@mail.ru
 
