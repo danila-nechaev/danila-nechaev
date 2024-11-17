@@ -13,3 +13,5 @@ Languages and Tools
     width = "40" height = "40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title= "jupyter"
     width = "40" height = "40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title= "azuresqldatabase"
+    width = "40" height = "40" />&nbsp;
