@@ -1,6 +1,7 @@
 <div id= "header" align = "center"
     <h1>Hi there, I'm Danila</h1>
     <h3>Data Analyst</h3>
+    <h5>My contacts:</h5>
 </div>
 <div id = 'socials' align = 'center'>
     <a href = "https://t.me/Dan_Hhh">
