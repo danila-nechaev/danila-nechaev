@@ -9,6 +9,10 @@
     </a>
 </div>
 
+About me
+- 🌍 I speak English
+- 🌱 I’m currently learning Data Science, ML, DL.
+- 📫 You can find me here [email](mailto:danila-nechaev-2001@mail.ru)
 Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "python" width = "40" height = "40" />&nbsp;
