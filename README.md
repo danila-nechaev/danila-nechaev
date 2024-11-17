@@ -10,8 +10,8 @@
 </div>
 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "python"
-    width = "40" height = "40" />;
+    width = "40" height = "40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title= "jupyter"
-    width = "40" height = "40" /> &nbsp;
+    width = "40" height = "40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title= "azuresqldatabase"
     width = "40" height = "40" />&nbsp;
