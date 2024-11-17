@@ -8,6 +8,9 @@
       <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" />
     </a>
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danila-nechaev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danila-nechaev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danila-nechaev&theme=github_dark)
 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "python"
     width = "40" height = "40" />&nbsp;
