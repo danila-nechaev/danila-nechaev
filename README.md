@@ -32,7 +32,6 @@ Languages and Tools
 
 My stat:
 <div id="stat" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danila-nechaev&theme=github_dark" alt=""/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danila-nechaev&theme=github_dark" alt=""/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danila-nechaev&theme=github_dark" alt=""/>
 </div>
